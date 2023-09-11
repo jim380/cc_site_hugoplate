@@ -1,0 +1,53 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Re Protocol"
+url = "/re"
+weight = 3
+
+[[main]]
+name = "Projects"
+url = "/projects"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Services"
+hasChildren = true
+
+[[main]]
+parent = "Services"
+name = "Relayers"
+url = "relayers/"
+
+[[main]]
+parent = "Services"
+name = "Elements - to be deleted"
+url = "elements/"
+
+# footer menu
+[[footer]]
+name = "Contact Us"
+url = "/contact"
+weight = 1
+
+# [[footer]]
+# name = "Elements"
+# url = "elements/"
+# weight = 2
+
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 3
