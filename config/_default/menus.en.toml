@@ -31,11 +31,6 @@ parent = "Services"
 name = "Relayers"
 url = "relayers/"
 
-[[main]]
-parent = "Services"
-name = "Elements - to be deleted"
-url = "elements/"
-
 # footer menu
 [[footer]]
 name = "Contact Us"

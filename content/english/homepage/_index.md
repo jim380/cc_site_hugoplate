@@ -3,11 +3,11 @@
 banner:
   title: "The Most Trusted Indie Staking Service"
   content: "We are devoted to bring financial freedom to everyone"
-  image: "/images/banner.png"
+  image: "/images/cc_banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Learn About Re"
+    link: "/re"
 
 # Features
 features:
