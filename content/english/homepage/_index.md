@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "The Most Trusted Indie Staking Service"
-  content: "We are devoted to bring financial freedom to everyone"
+  content: "We are devoted to bringing financial freedom to everyone"
   image: "/images/cc_banner.png"
   button:
     enable: true
