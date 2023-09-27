@@ -125,4 +125,4 @@ Similar to the Cosmos SDK, FIX also employs a modular data model for assets and 
 ## Resources
 
 - [Source code](https://github.com/jim380/Re)
-- [Deck](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8a2708c-1fe6-4b1b-991e-93dffea8b981/REPROTOCOL_3.pdf)
+- [Deck](https://drive.google.com/file/d/1P0YGB2rut42_vVJtZo0ugIebNX3Co6y8/view?usp=sharing)

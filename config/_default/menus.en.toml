@@ -31,6 +31,21 @@ parent = "Services"
 name = "Relayers"
 url = "relayers/"
 
+[[main]]
+parent = "Services"
+name = "Public Endpoints"
+url = "public_endpoints/"
+
+[[main]]
+parent = "Services"
+name = "State Sync"
+url = "state_sync/"
+
+[[main]]
+parent = "Services"
+name = "Docker Image Hosting"
+url = "docker_images/"
+
 # footer menu
 [[footer]]
 name = "Contact Us"
