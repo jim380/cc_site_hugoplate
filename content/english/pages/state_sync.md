@@ -37,7 +37,7 @@ $ INTERVAL=1000 # modify as you see fit
 ## Set Necessary Parameters
 
 ```bash
-$ RPC="http://66.206.5.194:26657"
+$ RPC="http://23.92.76.110:26657"
 $ LATEST_HEIGHT=$(curl -s $RPC/block | jq -r .result.block.header.height);
 $ TRUST_HEIGHT=$(($LATEST_HEIGHT-$INTERVAL))
 $ TRUST_HASH=$(curl -s "$RPC/block?height=$TRUST_HEIGHT" | jq -r .result.block_id.hash)
