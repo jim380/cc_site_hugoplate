@@ -14,7 +14,7 @@ draft: false
 
 | **Chain** |                                   **URL**                                   |
 | --------- | :-------------------------------------------------------------------------: |
-| Umee      | {{< button label="´･ᴗ･`" link="http://66.206.5.194:26657" style="solid" >}} |
+| Umee      | {{< button label="´･ᴗ･`" link="http://23.92.76.110:26657" style="solid" >}} |
 
 ## Stop Existing Process
 

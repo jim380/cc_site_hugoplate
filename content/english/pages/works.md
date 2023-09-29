@@ -17,12 +17,26 @@ draft: false
 
 FIX protocol on blockchain.
 
+```golang
+func main() {
+    sourceCode := "https://github.com/jim380/Re";
+    open(sourceCode);
+}
+```
+
 {{< button label="Learn More" link="/re" style="solid" >}}
 {{< /tab >}}
 
 {{< tab "Cendermint" >}}
 
 A feature-rich Prometheus exporter tailored for Cosmos SDK chains.
+
+```golang
+func main() {
+    sourceCode := "https://github.com/jim380/Cendermint";
+    open(sourceCode);
+}
+```
 
 {{< button label="Source Code" link="https://github.com/jim380/Cendermint" style="solid" >}}
 {{< /tab >}}
@@ -31,18 +45,41 @@ A feature-rich Prometheus exporter tailored for Cosmos SDK chains.
 
 A community-built explorer for the Cosmos ecosystem, built from scratch.
 
+```golang
+func main() {
+    sourceCode := "https://github.com/jim380/coris-v2";
+    open(sourceCode);
+}
+```
+
 {{< button label="Source Code" link="https://github.com/jim380/coris-v2" style="solid" >}}
 {{< /tab >}}
 
 {{< tab "Bootstrap Me" >}}
 
 A tool for easier and faster node launch on any Cosmos chain.
+
+```golang
+func main() {
+    sourceCode := "https://github.com/jim380/bootstrap-me";
+    open(sourceCode);
+}
+```
+
 {{< button label="Source Code" link="https://github.com/jim380/bootstrap-me" style="solid" >}}
 {{< /tab >}}
 
 {{< tab "Node Tooling" >}}
 
 Streamline node operations with code.
+
+```golang
+func main() {
+    sourceCode := "https://github.com/jim380/node_tooling";
+    open(sourceCode);
+}
+```
+
 {{< button label="Source Code" link="https://github.com/jim380/node_tooling" style="solid" >}}
 {{< /tab >}}
 
@@ -95,3 +132,23 @@ We employ Tendermint KMS (tmkms) with YubiHSM2 for handling block signing and en
 - Firewall, iptables configured with explicit rules
 - External DDOS protection
 - Intrusion detection system enabled with OSSEC and Fail2Ban
+
+## NFT Drops
+
+{{< notice "tip" >}}
+Click to view images in high resolution.
+{{< /notice >}}
+
+### Waste of Space
+
+{{< button label="View on Marketplace" link="https://www.stargaze.zone/m/stars1nmtk7hm3gz70f3uaxeulg6q2jpr8e56nmrnghqqgwcuns8qxh4tsrdmn5r" style="solid" >}}
+{{< gallery dir="images/waste_of_space" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+<hr>
+
+### Reproduction
+
+{{< button label="View on Marketplace" link="https://www.stargaze.zone/l/stars1nxjtdsq05tgtkzadjxts8aak8yxzvjq30s0rhttwxgtljn9m003snkg9pd" style="solid" >}}
+{{< gallery dir="images/reproduction" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+<hr>

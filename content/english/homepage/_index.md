@@ -18,19 +18,20 @@ features:
       - "As blockchain enthusiasts, we believe in its potential to revolutionize commerce across all industries"
       - "Our goal is to bridge traditional finance and web3, facilitating wider reach and fostering understanding of blockchain fundamentals"
 
-  - title: "Our Services"
+  - title: "Our Works"
     image: "/images/service-1.png"
     content: ""
     bulletpoints:
-      - "Staking as a Service"
-      - "Research and Development"
-      - "IBC Relaying"
-      - "Code Auditing"
-      - "Consulting"
+      - "[**Staking as a Service**](https://www.mintscan.io/visualization/validators/cyphercore) on 20+ networks"
+      - "[**Open Source Projects**](/works/#projects)"
+      - "[**IBC Relaying Service**](https://relayers.smartstake.io/relayer/5CCA4F526B9F85DA) on various networks"
+      - "Contemporary [**NFT Drops**](/works/#nft-drops)"
+      - "Comprehensive Code Auditing Services"
+      - "Expert Blockchain Consulting"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Check It Out"
+      link: "/works"
 
   - title: "Why Stake with Us"
     image: "/images/service-3.png"
